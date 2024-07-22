@@ -16,3 +16,8 @@ pipelines = ML pipeline
 
 ## Strategy Setup
 start the strategy setup, after that, develop the function in respective steps
+
+## Pipeline Running
+```bash
+python run_pipeline.py
+```
